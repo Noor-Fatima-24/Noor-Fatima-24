@@ -56,7 +56,8 @@ I'm:
 I'm always open to connect with fellow tech enthusiasts, learners, and mentors!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/noor-fatima-shahzad-programmer/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noor-Fatima-24)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)
+(https://github.com/Noor-Fatima-24)
 
 ---
 

@@ -1,12 +1,16 @@
 # 👋 Hey there! I'm a Curious Coder on a Tech Journey 🚀
 
-Welcome to my GitHub! I'm a **BSCS student** and passionate beginner programmer diving into the world of **C++, Web Development, Cybersecurity**, and even **AI/ML**. Every bug I fix and every concept I learn brings me closer to building something amazing. 💡💻
+Welcome to my GitHub! I'm a **BSCS student** and a passionate beginner programmer exploring the world of **C++**, **Web Development**, **Cybersecurity**, and even **AI/ML**. Every bug I fix and every concept I learn brings me closer to building something amazing. 💡💻
+
+I'm currently building **two dedicated repositories** to reflect my journey:
+- 📘 One focused on **C++ logic and pattern building**
+- 🧱 Another exclusively for **Object-Oriented Programming (OOP) in C++**
 
 ---
 
 ## 🌟 About Me
 - 🎓 BSCS Student | GCUF 
-- 💻 Currently learning **C++**, **HTML/CSS**, and **JavaScript**
+- 💻 Currently learning **C++**, **OOP**, **HTML/CSS**, and **JavaScript**
 - 🔐 Exploring **Cybersecurity**, **AI/ML**, and **Backend Development**
 - 🌱 Passionate about continuous learning and real-world application
 
@@ -14,11 +18,11 @@ Welcome to my GitHub! I'm a **BSCS student** and passionate beginner programmer 
 
 ## 🧠 Skills & Technologies
 
-| Languages        | Tools & Tech            | Learning Goals               |
-|------------------|-------------------------|------------------------------|
-| C, C++           | VS Code, Dev++, Cursor  | python, JavaScript & React   |
-| HTML & CSS       | Git, GitHub, Replit     | Backend (Node.js)            |
-| Python (Basics)  | Debugging, CLI Tools    | Open Source Contributions    |
+| Languages         | Tools & Tech            | Learning Goals               |
+|-------------------|-------------------------|------------------------------|
+| C, C++ (OOP)      | VS Code, Dev++, Cursor  | Python, JavaScript & React   |
+| HTML & CSS        | Git, GitHub, Replit     | Backend (Node.js)            |
+| Python (Basics)   | Debugging, CLI Tools    | Open Source Contributions    |
 
 ---
 
@@ -36,12 +40,19 @@ Welcome to my GitHub! I'm a **BSCS student** and passionate beginner programmer 
 
 - 🛡️ **Cybersecurity:** Learning how to protect systems and data
 - 🌐 **Full-Stack Web Development:** From frontend to backend – love bringing ideas to life
-- ⚙️ **Object-Oriented Programming & Python:** Writing clean, structured, and reusable code
-- - 🤖 **AI & Machine Learning:** Curious to understand intelligent systems and data science
+- ⚙️ **Object-Oriented Programming (C++):** Writing clean, structured, and reusable code using OOP concepts like classes, inheritance, and polymorphism
+- 🤖 **AI & Machine Learning:** Curious to understand intelligent systems and data science
 
 ---
 
-## 🔥 My Work Style
+## 🔥 Featured Repositories
+
+- 📘 [**C++ Basics & Patterns**](https://github.com/YourUsername/Cpp-Patterns): Loop-based problems and logic-building in C++
+- 🧱 [**OOP in C++**](https://github.com/YourUsername/OOP-in-CPP): Practice and apply core OOP principles through C++ code examples
+
+---
+
+## 🧑‍💻 My Work Style
 
 I'm:
 - 🔍 **Inquisitive** – I ask questions and explore deeply
@@ -55,11 +66,9 @@ I'm:
 
 I'm always open to connect with fellow tech enthusiasts, learners, and mentors!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/noor-fatima-shahzad-programmer/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)
-(https://github.com/Noor-Fatima-24)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-fatima-shahzad-programmer/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-%23242929?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noor-Fatima-24)
 
 ---
 
 > “Every expert was once a beginner – and I’m loving the journey.” 🌱
-

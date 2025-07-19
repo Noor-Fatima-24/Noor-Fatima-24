@@ -45,12 +45,6 @@ I'm currently building **two dedicated repositories** to reflect my journey:
 
 ---
 
-## 🔥 Featured Repositories
-
-- 📘 [**C++ Basics & Patterns**](https://github.com/YourUsername/Cpp-Patterns): Loop-based problems and logic-building in C++
-- 🧱 [**OOP in C++**](https://github.com/YourUsername/OOP-in-CPP): Practice and apply core OOP principles through C++ code examples
-
----
 
 ## 🧑‍💻 My Work Style
 
